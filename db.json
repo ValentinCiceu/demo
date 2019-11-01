@@ -1,14 +1,117 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "partners": [
+        {
+        "firstName": "Darin",
+        "lastName": "Daignault",
+        "email": "ddaignault@smithpartners.com",
+        "country": "United States",
+        "availableDates": [
+        "2017-05-03",
+        "2017-05-06"
+        ]
+        },
+        {
+        "firstName": "Crystal",
+        "lastName": "Brenna",
+        "email": "cbrenna@smithpartners.com",
+        "country": "Ireland",
+        "availableDates": [
+        "2017-04-27",
+        "2017-04-29",
+        "2017-04-30"
+        ]
+        },
+        {
+        "firstName": "Janyce",
+        "lastName": "Gustison",
+        "email": "jgustison@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-29",
+        "2017-04-30",
+        "2017-05-01"
+        ]
+        },
+        {
+        "firstName": "Tifany",
+        "lastName": "Mozie",
+        "email": "tmozie@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-28",
+        "2017-04-29",
+        "2017-05-01",
+        "2017-05-04"
+        ]
+        },
+        {
+        "firstName": "Temple",
+        "lastName": "Affelt",
+        "email": "taffelt@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-28",
+        "2017-04-29",
+        "2017-05-02",
+        "2017-05-04"
+        ]
+        },
+        {
+        "firstName": "Robyn",
+        "lastName": "Yarwood",
+        "email": "ryarwood@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-29",
+        "2017-04-30",
+        "2017-05-02",
+        "2017-05-03"
+        ]
+        },
+        {
+        "firstName": "Shirlene",
+        "lastName": "Filipponi",
+        "email": "sfilipponi@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-30",
+        "2017-05-01"
+  
+        ]
+        },
+        {
+        "firstName": "Oliver",
+        "lastName": "Majica",
+        "email": "omajica@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-28",
+        "2017-04-29",
+        "2017-05-01",
+        "2017-05-03"
+        ]
+        },
+        {
+        "firstName": "Wilber",
+        "lastName": "Zartman",
+        "email": "wzartman@smithpartners.com",
+        "country": "Spain",
+        "availableDates": [
+        "2017-04-29",
+        "2017-04-30",
+        "2017-05-02",
+        "2017-05-03"
+        ]
+        },
+    {
+    "firstName": "Eugena",
+    "lastName": "Auther",
+    "email": "eauther@smithpartners.com",
+    "country": "United States",
+    "availableDates": [
+    "2017-05-04",
+    "2017-05-09"
+    ]
+    }
+  ]
   }
-}
